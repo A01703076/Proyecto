@@ -1,3 +1,5 @@
+//Jesús Machuca Rodríguez
+
 #include <iostream>
 #include<stdlib.h>
 using namespace std;
