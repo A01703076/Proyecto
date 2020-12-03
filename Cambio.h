@@ -1,5 +1,7 @@
 #include <iostream>
 #include <stdlib.h>
+#ifndef CAMBIO_H_
+#define CAMBIO_H_
 using namespace std;
 
 class Cambio{
@@ -27,3 +29,4 @@ float Cambio::getDinero(){
 float Cambio ::total(float dinero, float precio){
     cout<<"\nSu cantidad convertida es: "<<endl; cout<<dinero/precio;
 }
+#endif
