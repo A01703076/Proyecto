@@ -1,11 +1,12 @@
 // Importa la librerias 
 #include <iostream>
 #include <stdlib.h>
-using namespace std;
+
 
 // Incluye la clase "Cambio"
 #include "Cambio.h"
 
+using namespace std;
 
 // Se crea la clase monedaL que da el tipo de cambio de la libra y se pone la herencia de la clase "Cambio"
 class monedaL : public Cambio{
