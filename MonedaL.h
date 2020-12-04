@@ -23,8 +23,8 @@ monedaL::monedaL() : Cambio(){
 }
 
 // Se crea el setter de la clase para dar el precio de la moneda de cambio de la Libra
-void monedaL::setprecioL(float _precioD){
-    precio = _precioD;
+void monedaL::setprecioL(float _precioL){
+    precio = _precioL;
 }
 
 // Se crea el getter para regresa el precio puesto en el setter
