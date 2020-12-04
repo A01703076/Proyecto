@@ -1,10 +1,11 @@
 // Se importan las bibliotecas
 #include <iostream>
 #include <stdlib.h>
-using namespace std;
 
 // Incluimos la clase padre para poder hacer la herencia
 #include "Cambio.h"
+
+using namespace std;
 
 // Se crea la clase hija con la herencia de la clase padre "Cambio"
 class monedaD : public Cambio{
