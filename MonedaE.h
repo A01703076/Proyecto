@@ -23,8 +23,8 @@ monedaE::monedaE() : Cambio(){
 }
 
 // Se crea el setter que nos da el precio de la moneda de cambio del euro 
-void monedaE::setprecioE(float _precioD){
-    precio = _precioD;
+void monedaE::setprecioE(float _precioE){
+    precio = _precioE;
 }
 
 // Se crea el getter del precio de la moneda
