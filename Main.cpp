@@ -4,13 +4,14 @@
 // Bibliotecas importadas 
 #include <iostream>
 #include <stdlib.h>
-using namespace std;
 
 // Las clases .h incluidas, para que el main funcione
 #include "Cambio.h"
 #include "MonedaD.h"
 #include "MonedaE.h"
 #include "MonedaL.h"
+
+using namespace std;
 
 // Inicializa el main
 int main(){
