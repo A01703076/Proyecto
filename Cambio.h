@@ -41,5 +41,7 @@ float Cambio::getDinero(){
 float Cambio ::total(float dinero, float precio){
     cout<<"\nSu cantidad convertida es: "<<endl; 
     cout<<dinero/precio;
+    
+    return 0;
 }
 #endif
