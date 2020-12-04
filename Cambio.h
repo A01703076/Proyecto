@@ -39,6 +39,7 @@ float Cambio::getDinero(){
 
 // Se crea la funcion que da el total de las operaciones
 float Cambio ::total(float dinero, float precio){
-    cout<<"\nSu cantidad convertida es: "<<endl; cout<<dinero/precio;
+    cout<<"\nSu cantidad convertida es: "<<endl; 
+    cout<<dinero/precio;
 }
 #endif
